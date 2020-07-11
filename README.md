@@ -7,7 +7,7 @@ ________
 
 | ![Work Status](https://img.shields.io/static/v1?label=WORK&message=In%20Progress&color=orange&style=for-the-badge) | ![Build Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/orbitturner/orbitnextframework/master/buildstatus.json&label=build&style=for-the-badge&logo=apache-rocketmq&logoColor=green) | ![Actual Version](https://img.shields.io/static/v1?label=Orbit%20Next%20Framework&message=v1.0.1&color=blue&style=for-the-badge&logo=Github) | ![PHP Version](https://img.shields.io/static/v1?label=PHP%20VERSION&message=@latest&color=blue&style=for-the-badge&logo=php) |
 |:-:|:-:|:-:|:-:|
-| ![GITHUB FOLLOW](https://img.shields.io/github/followers/orbitturner?style=social) | ![GITHUB STARS](https://img.shields.io/github/stars/orbitturner/orbitnextframework?style=social) | ![GITHUB WATCHER](https://img.shields.io/github/watchers/orbitturner/orbitnextframework?style=social) |  |
+| ![GITHUB FOLLOW](https://img.shields.io/github/followers/orbitturner?style=social) | ![GITHUB STARS](https://img.shields.io/github/stars/orbitturner/orbitnextframework?style=social) | ![GITHUB WATCHER](https://img.shields.io/github/watchers/orbitturner/orbitnextframework?style=social) | <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" > |
 
 
 
@@ -41,6 +41,13 @@ Then by trying to find a simple methodology allowing to succeed in making an OOP
 - **Composer**  ✅: [`For Doctrine ORM`](https://getcomposer.org/)
 
 
+<h1 align="center">INSTALLATION</h1>
+<p align="center">
+<a href="https://github.com/orbitturner/orbitnextframework/archive/ONF_V1.0.1.zip"><img src="https://img.shields.io/badge/DOWNLOAD-LATEST%20VERSION-lime?style=for-the-badge&logo=docusign&logoColor=lime"></a>
+<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/ISSUES-CREATE%20AN%20ISSUE-crimson?style=for-the-badge&logo=indeed&logoColor=CRIMSON"></a>
+</p>
+
+<br/><br/>
 ## SNEAK PEEK / DEMO OF A LIVE PROJECT
 ```
  *    ╔═╗╦═╗╔╗ ╦╔╦╗  ╔╗╔╔═╗═╗ ╦╔╦╗  
