@@ -1,0 +1,28 @@
+{
+    "name": "orbitturner/orbitnextframework",
+    "description": "A Fun PHP Framework for NewBies",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohamed GUEYE",
+            "email": "orbitturner@gmail.com"
+        },
+        {
+            "name": "Orbit Turner",
+            "email": "orbitturner@gmail.com"
+        },
+        {
+            "name": "orbitnextframework",
+            "email": "orbitturner@gmail.com"
+        }
+
+    ],
+    "require": {
+        "doctrine/orm": "^2.6.2",
+        "symfony/yaml": "2.*"
+    },
+    "autoload": {
+        "psr-0": {"": "src/entities/"}
+    }
+}
