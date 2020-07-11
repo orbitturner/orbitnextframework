@@ -18,7 +18,7 @@ ________
 #
 
 <p>
-<strong>This is a Funny Easy Simple Lighweight *🇸🇳* Senegalese *🇸🇳* PHP Framework that have been made to help Nebies and Pro devs to code in a different way.</strong>
+<strong align="center">This is a Funny Easy Simple Lighweight *🇸🇳* Senegalese *🇸🇳* PHP Framework that have been made to help Newbies and Pro devs to code in a different way.</strong>
 </p>
 
 
@@ -32,8 +32,8 @@ Basically it was just a solution to solve a class project in OOP intended to dee
 Then by trying to find a simple methodology allowing to succeed in making an OOP PHP project without getting tired or obstinate in managing NAMESPACES, classes, entities; I decided to create a structure that will manage the bulk of the project in the background allowing us to focus on analysis and design.<br/><br/>
 **ONF is Based on the M-V-C (MVC) methodology** and draws much inspiration from the great and Premier Senegalese FrameWork: ❤ [**SAMANE MVC**](https://github.com/ngorseckframework/samanemvc) ❤.
 <br/>
-### 🚧⚒⚠ ONF IS STILL ON PROGRESS AND NOT FULLY FINISHED ⚠⚒🚧
-
+<h3 align="center">🚧⚒⚠ ONF IS STILL ON PROGRESS AND NOT FULLY FINISHED ⚠⚒🚧</h3>
+<br/>
 
 # REQUIREMENTS
 - **PHP**       ✅: [`7.1 OR HIGHER`](https://www.php.net/)
@@ -46,9 +46,9 @@ Then by trying to find a simple methodology allowing to succeed in making an OOP
 <a href="https://github.com/orbitturner/orbitnextframework/archive/ONF_V1.0.1.zip"><img src="https://img.shields.io/badge/DOWNLOAD-LATEST%20VERSION-lime?style=for-the-badge&logo=docusign&logoColor=lime"></a>
 <a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/ISSUES-CREATE%20AN%20ISSUE-crimson?style=for-the-badge&logo=indeed&logoColor=CRIMSON"></a>
 </p>
+<br/>
+<h2 align="center">SNEAK PEEK / DEMO OF A LIVE PROJECT</h2>
 
-<br/><br/>
-## SNEAK PEEK / DEMO OF A LIVE PROJECT
 ```
  *    ╔═╗╦═╗╔╗ ╦╔╦╗  ╔╗╔╔═╗═╗ ╦╔╦╗  
  *    ║ ║╠╦╝╠╩╗║ ║   ║║║║╣ ╔╩╦╝ ║   
@@ -60,12 +60,12 @@ Then by trying to find a simple methodology allowing to succeed in making an OOP
 *Comming Soon !*
 
 
-
+<br/>
 ## ❤🚀 Contributions & Pull Request 🚀❤
 😊✌❤ WE ARE ALWAYS WAITING FOR YOUR PULL REQUESTS ❤✌😊<br/>
 💠🏗 Contributions are always welcome too !🌌💠🏗<br/>
 Please read the [contribution guidelines](public/assets/contributing.md) first.
-
+<br/>
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
