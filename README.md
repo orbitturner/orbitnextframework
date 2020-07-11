@@ -1,27 +1,15 @@
-________
-
 
 <p align="center">
   <a href="https://github.com/orbitturner/orbitnextframework"><img src="public/img/ORBIT_NEXT_FRAMEWORK_FULL_LOGO_2020.png" alt="Orbit Next Framework" height="120" /></a>
 </p>
 
-<p align="center" style="display: inline-block">
-![Work Status](https://img.shields.io/static/v1?label=WORK&message=In%20Progress&color=orange&style=for-the-badge)](https://github.com/orbitturner/orbitnextframework)
-<!-- Build Status -->
-![Build Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/orbitturner/orbitnextframework/master/buildstatus.orbit&label=on%20progress&style=for-the-badge&logo=apache-rocketmq&logoColor=green)](https://github.com/orbitturner/orbitnextframework)
-</p>
-<!-- Version Shields.io -->
-![Actual Version](https://img.shields.io/static/v1?label=Orbit%20Next%20Framework&message=v1.0.1&color=blue&style=for-the-badge&logo=Github)](https://github.com/orbitturner/orbitnextframework)
-<!-- PHP Version  -->
-![PHP Version](https://img.shields.io/static/v1?label=PHP%20VERSION&message=@latest&color=blue&style=for-the-badge&logo=php)](https://www.php.net/)
-<p align="center">
-<!-- GITHUB FOLLOWERS  -->
-![PHP Version](https://img.shields.io/github/followers/orbitturner?style=social)](https://www.php.net/)
-<!-- GITHUB STARS  -->
-![PHP Version](https://img.shields.io/github/stars/orbitturner/orbitnextframework?style=social)](https://github.com/orbitturner)
-<!-- GITHUB WATCH  -->
-![PHP Version](https://img.shields.io/github/watchers/orbitturner/orbitnextframework?style=social)](https://github.com/orbitturner)
-</p>
+________
+
+| ![Work Status](https://img.shields.io/static/v1?label=WORK&message=In%20Progress&color=orange&style=for-the-badge) | ![Build Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/orbitturner/orbitnextframework/master/buildstatus.orbit&label=on%20progress&style=for-the-badge&logo=apache-rocketmq&logoColor=green) | ![Actual Version](https://img.shields.io/static/v1?label=Orbit%20Next%20Framework&message=v1.0.1&color=blue&style=for-the-badge&logo=Github) | ![PHP Version](https://img.shields.io/static/v1?label=PHP%20VERSION&message=@latest&color=blue&style=for-the-badge&logo=php) |
+|:-:|:-:|:-:|:-:|
+| ![GITHUB FOLLOW](https://img.shields.io/github/followers/orbitturner?style=social) | ![GITHUB STARS](https://img.shields.io/github/stars/orbitturner/orbitnextframework?style=social) | ![GITHUB WATCHER](https://img.shields.io/github/watchers/orbitturner/orbitnextframework?style=social) |  |
+
+
 
 <p align="center">
 <a href="https://github.com/orbitturner/orbitnextframework"><img src="public/img/ONF_BG_V1_RESIZED.png" alt="Orbit Next Framework" height="120" /></a>
