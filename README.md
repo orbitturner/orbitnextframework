@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/orbitturner/orbitnextframework"><img src="public/img/ORBIT_NEXT_FRAMEWORK_FULL_LOGO_2020.png" alt="Orbit Next Framework" height="120" /></a>
+  <a href="https://github.com/orbitturner/orbitnextframework"><img src="public/img/ONF_512.png" alt="Orbit Next Framework"/></a>
 </p>
 
 ________
@@ -12,7 +12,7 @@ ________
 
 
 <p align="center">
-<a href="https://github.com/orbitturner/orbitnextframework"><img src="public/img/ONF_BG_V1_RESIZED.png" alt="Orbit Next Framework" height="120" /></a>
+<a href="https://github.com/orbitturner/orbitnextframework"><img src="public/img/ONF_BG_V1_RESIZED.png" alt="Orbit Next Framework BG" width="auto" /></a>
 </p>
 
 #
@@ -21,7 +21,9 @@ ________
 <strong>This is a Funny Easy Simple Lighweight *🇸🇳* Senegalese *🇸🇳* PHP Framework that have been made to help Nebies and Pro devs to code in a different way.</strong>
 </p>
 
+
 <h1 align="center"># ABOUT ORBIT NEXT FRAMEWORK</h1>
+
 
 **IT'S FIRST A FUNNY ADVENTURE !**
 ***"Orbit Next Framework"*** is not a mega framework like symfony or whatever.
