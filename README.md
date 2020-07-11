@@ -5,7 +5,7 @@
 
 ________
 
-| ![Work Status](https://img.shields.io/static/v1?label=WORK&message=In%20Progress&color=orange&style=for-the-badge) | ![Build Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/orbitturner/orbitnextframework/master/buildstatus.orbit&label=on%20progress&style=for-the-badge&logo=apache-rocketmq&logoColor=green) | ![Actual Version](https://img.shields.io/static/v1?label=Orbit%20Next%20Framework&message=v1.0.1&color=blue&style=for-the-badge&logo=Github) | ![PHP Version](https://img.shields.io/static/v1?label=PHP%20VERSION&message=@latest&color=blue&style=for-the-badge&logo=php) |
+| ![Work Status](https://img.shields.io/static/v1?label=WORK&message=In%20Progress&color=orange&style=for-the-badge) | ![Build Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/orbitturner/orbitnextframework/master/buildstatus.json&label=on%20progress&style=for-the-badge&logo=apache-rocketmq&logoColor=green) | ![Actual Version](https://img.shields.io/static/v1?label=Orbit%20Next%20Framework&message=v1.0.1&color=blue&style=for-the-badge&logo=Github) | ![PHP Version](https://img.shields.io/static/v1?label=PHP%20VERSION&message=@latest&color=blue&style=for-the-badge&logo=php) |
 |:-:|:-:|:-:|:-:|
 | ![GITHUB FOLLOW](https://img.shields.io/github/followers/orbitturner?style=social) | ![GITHUB STARS](https://img.shields.io/github/stars/orbitturner/orbitnextframework?style=social) | ![GITHUB WATCHER](https://img.shields.io/github/watchers/orbitturner/orbitnextframework?style=social) |  |
 
