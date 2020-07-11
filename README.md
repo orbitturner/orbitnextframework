@@ -23,15 +23,15 @@ ________
 
 
 ________
-<h1 align="center"># ABOUT ORBIT NEXT FRAMEWORK</h1>
+<h1 align="center">ABOUT ORBIT NEXT FRAMEWORK</h1>
 
 
-**IT'S FIRST A FUNNY ADVENTURE !**
-***"Orbit Next Framework"*** is not a mega framework like symfony or whatever.
+**IT'S FIRST A FUNNY ADVENTURE !**<br/>
+***"Orbit Next Framework"*** is not a mega framework like symfony or whatever.<br/>
 Basically it was just a solution to solve a class project in OOP intended to deepen our knowledge in OOP in PHP.
-Then by trying to find a simple methodology allowing to succeed in making an OOP PHP project without getting tired or obstinate in managing NAMESPACES, classes, entities; I decided to create a structure that will manage the bulk of the project in the background allowing us to focus on analysis and design.
+Then by trying to find a simple methodology allowing to succeed in making an OOP PHP project without getting tired or obstinate in managing NAMESPACES, classes, entities; I decided to create a structure that will manage the bulk of the project in the background allowing us to focus on analysis and design.<br/><br/>
 **ONF is Based on the M-V-C (MVC) methodology** and draws much inspiration from the great and Premier Senegalese FrameWork: ❤ [**SAMANE MVC**](https://github.com/ngorseckframework/samanemvc) ❤.
-
+<br/>
 ### 🚧⚒⚠ ONF IS STILL ON PROGRESS AND NOT FULLY FINISHED ⚠⚒🚧
 
 
@@ -55,8 +55,8 @@ Then by trying to find a simple methodology allowing to succeed in making an OOP
 
 
 ## ❤🚀 Contributions & Pull Request 🚀❤
-😊✌❤ WE ARE ALWAYS WAITING FOR YOUR PULL REQUESTS ❤✌😊
-💠🏗 Contributions are always welcome too !🌌💠🏗
+😊✌❤ WE ARE ALWAYS WAITING FOR YOUR PULL REQUESTS ❤✌😊<br/>
+💠🏗 Contributions are always welcome too !🌌💠🏗<br/>
 Please read the [contribution guidelines](public/assets/contributing.md) first.
 
 ## License
