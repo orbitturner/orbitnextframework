@@ -17,8 +17,8 @@ ________
 
 #
 
-<p>
-<strong align="center">This is a Funny Easy Simple Lighweight *🇸🇳* Senegalese *🇸🇳* PHP Framework that have been made to help Newbies and Pro devs to code in a different way.</strong>
+<p  align="center">
+<strong>This is a Funny Easy Simple Lighweight *🇸🇳* Senegalese *🇸🇳* PHP Framework that have been made to help Newbies and Pro devs to code in a different way.</strong>
 </p>
 
 
@@ -36,6 +36,7 @@ Then by trying to find a simple methodology allowing to succeed in making an OOP
 <br/><br/>
 
 <h1 align="center">REQUIREMENTS</h1>
+
 - **PHP**       ✅: [`7.1 OR HIGHER`](https://www.php.net/)
 - **MySQL**     ✅: [`Website`](https://www.mysql.com/fr/)
 - **Composer**  ✅: [`For Doctrine ORM`](https://getcomposer.org/)
