@@ -31,11 +31,11 @@ ________
 Basically it was just a solution to solve a class project in OOP intended to deepen our knowledge in OOP in PHP.
 Then by trying to find a simple methodology allowing to succeed in making an OOP PHP project without getting tired or obstinate in managing NAMESPACES, classes, entities; I decided to create a structure that will manage the bulk of the project in the background allowing us to focus on analysis and design.<br/><br/>
 **ONF is Based on the M-V-C (MVC) methodology** and draws much inspiration from the great and Premier Senegalese FrameWork: ❤ [**SAMANE MVC**](https://github.com/ngorseckframework/samanemvc) ❤.
-<br/>
+<br/><br/>
 <h3 align="center">🚧⚒⚠ ONF IS STILL ON PROGRESS AND NOT FULLY FINISHED ⚠⚒🚧</h3>
-<br/>
+<br/><br/>
 
-# REQUIREMENTS
+<h1 align="center">REQUIREMENTS</h1>
 - **PHP**       ✅: [`7.1 OR HIGHER`](https://www.php.net/)
 - **MySQL**     ✅: [`Website`](https://www.mysql.com/fr/)
 - **Composer**  ✅: [`For Doctrine ORM`](https://getcomposer.org/)
@@ -59,8 +59,8 @@ Then by trying to find a simple methodology allowing to succeed in making an OOP
 ```
 *Comming Soon !*
 
-
 <br/>
+
 ## ❤🚀 Contributions & Pull Request 🚀❤
 😊✌❤ WE ARE ALWAYS WAITING FOR YOUR PULL REQUESTS ❤✌😊<br/>
 💠🏗 Contributions are always welcome too !🌌💠🏗<br/>
