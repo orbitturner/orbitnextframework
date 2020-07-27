@@ -1,0 +1,5 @@
+
+//======= ADD VENDOR LOADING TO HE INDEX . PHP
+- require_once 'vendor/autoload.php';
+- Think about the ORM Implementation with the Config/db file
+- Inspect samane

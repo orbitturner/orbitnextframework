@@ -11,6 +11,20 @@
  *     ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝          ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
  */
 
-// COMMING SOON ! FOR ORM TRIGGERING
-// DON'T DELETE THIS FILE OTHERWISE ONF ISN'T GOING TO WORK 
+/**
+ * SPECIFY IF YOU WANNA USE ORM OR NOT ["ORM" -- "PDO"]
+ */
+$choix = "ORM"; 
+/** 
+ * Turn to on or off your database
+ */
+// $etat = 'off'; //on or off
+//Change Your DATABASE Connection Params
+$orm = array(
+              'dbname' => 'tp5_orm_doctrine',
+              'host' => '127.0.0.1',
+              'user'     => 'root',
+              'password' => '@webmaster1',
+              'driver' => 'pdo_mysql',
+);
 ?>

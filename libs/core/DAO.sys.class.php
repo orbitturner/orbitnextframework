@@ -21,8 +21,7 @@ use ReflectionMethod;
 	
 	class DAO 
 	{
-		private $host;	
-		private $dbName;
+		private $dsn;
 		private $user;
 		private $password; 
 
@@ -31,23 +30,32 @@ use ReflectionMethod;
 		 */
 		public function __construct()
 		{
-			$this->host = 'localhost';
-			$this->dbName = 'tp4_bp_simplon';
-			$this->user = 'shadowwalker';
-			$this->password = '@webmaster1';
+			require "config/db.conf.php";
+			$this->dsn = "mysql:host=".$orm['host'].";dbname=".$orm['dbname'];
+			$this->user = $orm['user'];
+			$this->password = $orm['password'];
 		}
 		
 		/** 
 	* Database connector Function
-	* @return PDO
+	* @return PDO or NULL
 	*/
-		public function dbConnector(): PDO{
+		public function dbConnector(){
 			try {
-				$db = new PDO('mysql:host='.$this->host.';dbname='.$this->dbName, $this->user, $this->password, array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8', PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
+				$db = new PDO($this->dsn,
+                                $this->user,
+                                $this->password,
+                                array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));
+				// $db = new PDO(
+				// 	'mysql:host='.$this->host.';
+				// 	dbname='.$this->dbName, 
+				// 	$this->user, $this->password, 
+				// 	array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8', 
+				// 	PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
 				echo '<script>console.log("CONNECTED TO SERVER DB SUCCESSFULLY")</script>';
 
 			} catch (Exception $err) {
-
+				$db = null;
 				// $itMsg = $err->getCode();
 				
 				$erreur_base = $err->getMessage();
