@@ -14,27 +14,35 @@
  */
 namespace Orbit\libs\core;
 
+use Orbit\libs\engine\Err_Manager;
 
 abstract class Controller 
 {
     protected $loader;
     protected $modelName;
     protected $model;
+    protected $entity;
     
     public function __construct()
     {
         if(!empty($this->modelName)) {
-            // require_once($_SERVER["DOCUMENT_ROOT"]."/TPDevWeb_SIMPLONP3/TP4_PHP_POO_V1/src/model/". $this->modelName.".php");
-            // require_once("src/model/". $this->modelName.".php");
+            $classEntity = $this->modelName;
             $classModel = "Orbit\\src\\model\\".$this->modelName;
-            $this->model = new $classModel;
+            // This block will verify If The Model or The Entity of the Actual class exist
+            try {
+                $this->model = new $classModel;
+                $this->entity = new $classEntity;
+            } catch (\Throwable $th) {
+                $error = new Err_Manager();
+                $message = $th->getMessage().'<br/> Merci de créer l\'Entité et/ou le Modèle: '.$this->modelName;
+                $error->messageError($message);
+            }
             $this-> loader = new Renderer();
         } else {
             
-            /* L'OBJET EN COURS */
+            /* Instancie La Vue*/
             $this-> loader = new Renderer();
         }
-        // echo "CONTROLLER LIBS";
     }
     
     

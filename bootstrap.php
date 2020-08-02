@@ -34,7 +34,7 @@ $driverImpl = $config->newDefaultAnnotationDriver(__DIR__."/src/entities/");
 $config->setMetadataDriverImpl($driverImpl);
 $config->setQueryCacheImpl($cache);
 $config->setProxyDir(__DIR__.'/cache/proxies/');
-$config->setProxyNamespace('Samane\Proxies');
+$config->setProxyNamespace('Orbit\Proxies');
 /**
  * Dev Mode
  */
@@ -54,6 +54,3 @@ try {
     $message = $err->getMessage();
     $error->messageError($message);
 }
-// if (($entityManager->getConnection()->connect()) != true) {
-
-// }

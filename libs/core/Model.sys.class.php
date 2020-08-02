@@ -22,7 +22,6 @@ use PDOException;
 abstract class Model 
 {
     protected $db;
-    protected $entity;
     
     // ========[CONSTRUCTOR SETS]========
     public function __construct()
@@ -48,11 +47,4 @@ abstract class Model
         // var_dump($this->db);
     }
     
-    // ============[ METHODES ]============
-
-    public function findAll(): array{
-        $query = $this->db->query("SELECT * FROM {$this->entity}");
-
-        return $query->fetchAll();
-    }
 }

@@ -15,10 +15,7 @@
  * SPECIFY IF YOU WANNA USE ORM OR NOT ["ORM" -- "PDO"]
  */
 $choix = "ORM"; 
-/** 
- * Turn to on or off your database
- */
-// $etat = 'off'; //on or off
+
 //Change Your DATABASE Connection Params
 $orm = array(
               'dbname' => 'tp5_orm_doctrine',
